@@ -51,9 +51,9 @@ Experimentation notebook for the Kaggle [Credit Card Fraud Detection](https://ww
 ### 4. Deep AutoEncoders [http://www.cs.toronto.edu/~hinton/science.pdf](http://www.cs.toronto.edu/~hinton/science.pdf)
 
  ## Contacts
- [LinkedIn](https://www.linkedin.com/in/vasilopo)
- [Twitter](https://twitter.com/vasilopo_)
- [Kaggle](https://www.kaggle.com/vasilopo)
+ [LinkedIn](https://www.linkedin.com/in/vasilopo)<br/>
+ [Twitter](https://twitter.com/vasilopo_)<br/>
+ [Kaggle](https://www.kaggle.com/vasilopo)<br/>
  [GitHub](https://github.com/vasilopo)
 
 ## License
