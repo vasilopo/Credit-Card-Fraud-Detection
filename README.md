@@ -34,11 +34,6 @@ Experimentation notebook for the Kaggle [Credit Card Fraud Detection](https://ww
  - Deep AutoEncoders
  - Deep AutoEncoders Evaluation
  
- ### 7. To Do
- 
- - Feature Selection
- - Feature Engineering
- - Try different Architectures and Algorithms
 
  
  ## References
